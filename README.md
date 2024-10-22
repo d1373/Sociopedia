@@ -8,6 +8,7 @@ For all related questions and discussions about this project, check out the disc
 
 
 # Contributors 
-Sakshi Singh
-Dhyey Swadia 
+Sakshi Singh,
+Dhyey Swadia,
+Nikhil Singh 
 
